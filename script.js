@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Quando encerramos o ensino médio é como terminar uma temporada da vida e se deparar com novas temporada e com a pergunta que sempre nos perseguiu "Oque você vai fazer depois do ensino médio?", você sabe oque fazer?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Não faço ideia",
+                afirmacao: "Nem sempre sabemos de tudo, e isso serve para aprendermos cada vez mais"
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Já tenho uma ideia",
+                afirmacao: "Isso é ótimo, ter ideia sobre seu futuro é muito importante para o seu aprendizado"
             }
         ]
     },
